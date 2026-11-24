@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GREY Puzzle AI</string>
+    <string name="accessibility_desc">Mengambil tangkapan layar papan game dan mengeksekusi sentuhan otomatis sesuai rencana AI.</string>
+</resources>

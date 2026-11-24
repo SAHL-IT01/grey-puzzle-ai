@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.GreyPuzzleAI" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">#0A0A0A</item>
+        <item name="colorPrimary">#38BDF8</item>
+        <item name="colorOnPrimary">#0A0A0A</item>
+    </style>
+</resources>
